@@ -1,0 +1,55 @@
+body {
+  background: #f4f6fb;
+  font-family: Tahoma;
+}
+
+.wrapper {
+  width: 260px;
+  margin: 80px auto;
+}
+
+.screen {
+  background: white;
+  border: 2px solid #444;
+  height: 60px;
+  font-size: 28px;
+  text-align: center;
+  line-height: 60px;
+  margin-bottom: 15px;
+}
+
+.keys {
+  width: 100%;
+}
+
+.keys td {
+  text-align: center;
+  padding: 5px;
+}
+
+.keys a {
+  display: block;
+  padding: 15px;
+  background: #2d89ef;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.keys a:hover {
+  background: #1b5fbf;
+}
+
+.zero {
+  background: #00a300;
+}
+
+.reset {
+  background: #e51400;
+}
+
+.counter {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 16px;
+}
