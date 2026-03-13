@@ -1,0 +1,37 @@
+body {
+  font-family: Tahoma;
+  background: #eef2f7;
+  margin: 30px;
+}
+
+h1 {
+  text-align: center;
+  color: #1f3a5f;
+  margin-bottom: 40px;
+}
+
+h2 {
+  color: #333;
+  margin-top: 35px;
+}
+
+.tbl {
+  border-collapse: collapse;
+  width: 60%;
+  margin-bottom: 30px;
+}
+
+.tbl td {
+  border: 1px solid #333;
+  padding: 9px;
+  text-align: center;
+}
+
+.tbl tr:hover {
+  background: #dfe8f5;
+}
+
+.warning {
+  color: #a00000;
+  font-weight: bold;
+}
